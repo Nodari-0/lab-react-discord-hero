@@ -2,7 +2,7 @@ function Main() {
   return (
     <>
       <main className="main-content">
-        <h1>Imagine a place...</h1>
+        <h1>Imagine a place... </h1>
         <p className="description">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
           quam ipsum fugiat saepe modi ullam laboriosam necessitatibus
